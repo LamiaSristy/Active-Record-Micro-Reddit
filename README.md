@@ -19,8 +19,8 @@ To get this project up and running locally, you must already have ruby and neces
 
 1. Open Terminal.
 2. Navigate to your desired location to download the contents of this repository.
-3. Copy and paste the following code into the Terminal: git clone https://github.com/LamiaSristy/effective_recipe_crawler
-4. Run ```cd effective_recipe_crawler```.
+3. Copy and paste the following code into the Terminal: git clone https://github.com/LamiaSristy/Active-Record-Micro-Reddit
+4. Run ```cd Active-Record-Micro-Reddit```.
 5. Run ```bundle install``` to get the necesary gems.
 6. Run `rails db:migrate`.
 
