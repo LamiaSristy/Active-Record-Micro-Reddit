@@ -4,10 +4,13 @@ This project is an application similar to Reddit (called Micro-Reddit) where a u
 
 ## Build-With
 
- -Ruby
- -Rails
- -SQLite3
- -VScode
+-Ruby
+
+-Rails
+
+-SQLite3
+
+-VScode
 
 ## Getting Started
 
